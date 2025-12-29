@@ -33,9 +33,3 @@ This project demonstrates how to deploy a web server on Amazon Web Services (AWS
 ## Outcome
 Successfully deployed a web server on AWS EC2 with secure access and publicly accessible web content.
 
-## Usage
-To test the deployment:
-1. Go to the EC2 console
-2. Copy the public IPv4 address of your instance
-3. Paste into a browser:
-
